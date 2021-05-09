@@ -1,0 +1,14 @@
+API key: 8F899DCF
+
+IoT Hub:
+
+Device ID: m5stack
+Primary connection string: HostName=iothub-0507.azure-devices.net;DeviceId=m5stack;SharedAccessKey=Nr1aSZ2HWNHR65i0uL0Cz7oXUWkdS/3vGCxUMXx8DEs=
+
+Event hub:
+Namespace:evenhubns
+Instance:eventhub-0508
+Consumer group:m5-tsi-cg
+
+Connection string: Endpoint=sb://eventhubns0508.servicebus.windows.net/;SharedAccessKeyName=iothubroutes_iothub-0507;SharedAccessKey=VUzRm2JO9VCY/jZplFJ7+9SSweKroDBvCiac36qCWAQ=;EntityPath=eventhub-0508
+
