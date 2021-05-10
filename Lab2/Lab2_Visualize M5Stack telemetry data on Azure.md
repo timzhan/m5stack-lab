@@ -182,7 +182,7 @@ You may view the data in different line chart, Zoom in/out, view as a table, Con
 
 ![](images/Zoom_in_view.png)
 
-![](images/Show_as_Table.png)
+![](images/Show_as_table.png)
 
 ![](images/Explore_raw_events.png)
 
